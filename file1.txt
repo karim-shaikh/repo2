@@ -1,1 +1,2 @@
 this file is being edited to resolve GitHub issue.
+second attempt to resolve issue
